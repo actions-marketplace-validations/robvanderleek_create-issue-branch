@@ -44,9 +44,6 @@ jobs:
     - name: Build action docker image
       run: docker build -f Dockerfile-action -t cib-action .
 
-    - name: Build server dist
-      run: npm run server:dist
-
     - name: Build server docker image
       run: docker build -t cib .
 

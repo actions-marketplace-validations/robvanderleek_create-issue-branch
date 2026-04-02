@@ -30,21 +30,14 @@ of issue branches (and many more things!)
 
 Unique features offered by this app that are not available on GitHub:
 
-- [Configure branch name
-  format](https://github.com/robvanderleek/create-issue-branch#branch-names)
-- [Configure default source
-  branch](https://github.com/robvanderleek/create-issue-branch#default-source-branch)
-- [Configure source branch based on
-  label](https://github.com/robvanderleek/create-issue-branch#source-branch-based-on-issue-label)
-- [Automatically open a (draft) Pull
-  Request](https://github.com/robvanderleek/create-issue-branch#automatically-open-a-pull-request)
+- [Configure branch name format](#branch-names)
+- [Configure default source branch](#default-source-branch)
+- [Configure source branch based on label](#source-branch-based-on-issue-label)
+- [Automatically open a (draft) Pull Request](#automatically-open-a-pull-request)
 - [Copy over attributes (such as labels and milestones) from the issue to the
-  (draft)
-  PR](https://github.com/robvanderleek/create-issue-branch#copy-attributes-from-issue)
-- [Configure PR target branch based on issue
-  label](https://github.com/robvanderleek/create-issue-branch#pull-request-target-branch-based-on-issue-label)
-- [Feature requests are always
-  welcome!](https://github.com/robvanderleek/create-issue-branch#feedback-suggestions-and-bug-reports)
+  (draft) PR](#copy-attributes-from-issue)
+- [Configure PR target branch based on issue label](#pull-request-target-branch-based-on-issue-label)
+- [Feature requests are always welcome!](#feedback-suggestions-and-bug-reports)
 
 # Table of Contents
 
